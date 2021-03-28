@@ -1,0 +1,1 @@
+web: gunicorn pydj.wsgi --log-file -
